@@ -561,10 +561,10 @@
       "a": 255
     },
     "_spriteFrame": {
-      "__uuid__": "42f1856a-fefd-4f32-a87a-0c65800b32c4@f9941",
+      "__uuid__": "5aafe6e1-aa57-41bb-9678-25830f6a4cb2@f9941",
       "__expectedType__": "cc.SpriteFrame"
     },
-    "_type": 0,
+    "_type": 1,
     "_fillType": 0,
     "_sizeMode": 0,
     "_fillCenter": {
@@ -606,7 +606,7 @@
     },
     "deltaY": 50,
     "centerScale": 1.5,
-    "minScale": 0.8,
+    "minScale": 0.7,
     "scrollSpeed": 600,
     "selectEvents": [
       {
@@ -1077,10 +1077,10 @@
       "a": 255
     },
     "_spriteFrame": {
-      "__uuid__": "42f1856a-fefd-4f32-a87a-0c65800b32c4@f9941",
+      "__uuid__": "5aafe6e1-aa57-41bb-9678-25830f6a4cb2@f9941",
       "__expectedType__": "cc.SpriteFrame"
     },
-    "_type": 0,
+    "_type": 1,
     "_fillType": 0,
     "_sizeMode": 0,
     "_fillCenter": {
@@ -1122,7 +1122,7 @@
     },
     "deltaY": 50,
     "centerScale": 1.5,
-    "minScale": 0.8,
+    "minScale": 0.7,
     "scrollSpeed": 600,
     "selectEvents": [
       {
